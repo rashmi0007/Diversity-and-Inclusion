@@ -49,7 +49,7 @@ Measures used in visualization are:
 
 •  % Turnover =  DIVIDE(CALCULATE(DISTINCTCOUNTNOBLANK('Peoples Details'[Employee ID]),FILTER('Peoples Details','Peoples Details'[FY20 leaver?]="Yes")),Divide(Calculate(distinctcount('Peoples Details'[Employee ID]),Filter('Peoples Details','Peoples Details'[In base group for turnover FY20]="Y"))+Calculate(DISTINCTCOUNT('Peoples Details'[Employee ID]),Filter('Peoples Details',NOT('Peoples Details'[Department @01.07.2020]=BLANK()))),2))
 
-## (Dashboard)[https://github.com/rashmi0007/Diversity-and-Inclusion/blob/master/Diversity_Inclusion_Dashboard.pbix]:
+## [Dashboard](https://github.com/rashmi0007/Diversity-and-Inclusion/blob/master/Diversity_Inclusion_Dashboard.pbix):
 
 ![image](https://github.com/rashmi0007/Diversity-and-Inclusion/assets/87612040/defca7ec-7f11-4f73-96a9-f3d59f5695a2)
 
