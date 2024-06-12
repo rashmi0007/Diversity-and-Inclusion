@@ -1,6 +1,8 @@
 # Pwc Switzerland - Power BI Virtual Case Experience - Diversity and Inclusion Analysis
 
 ## Problem Statement :
+This project was based on Power BI, where an HR Diversity and Inclusion dataset was analyzed, a Power BI dashboard report was being designed, and KPIs were defined to measure the organization's progress.
+
 The following actions could assist in establishing appropriate KPIs:-
 
 •  '#' of men
