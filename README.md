@@ -24,6 +24,8 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 ## 🛠 Tools & Technologies Used in project :
 ▪ Power BI Desktop
 
+▪ DAX
+
 ▪ MS Excel
 
 ▪ PowerPoint (For Dashboard background design)
